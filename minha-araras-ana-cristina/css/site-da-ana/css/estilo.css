@@ -1,0 +1,54 @@
+.topo{
+    background-color: #C49CF6;
+    font-size: 16px;
+    padding: 16px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+#menu{
+     width: auto;
+     margin: auto;
+     background-color: whitesmoke;
+     padding-left: 80px;
+     border-bottom: solid 1px black;
+}
+.itens-do-menu{
+    display: inline-block;
+    padding: 16px;
+    margin: 4px;
+    margin-right: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: auto;
+    background-color: whitesmoke;
+}
+.itens-do-menu-active{
+    display:inline-block;
+    padding: 16px;
+    margin: 4px;
+    margin-right: 60px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: auto;
+    background-color: #E5E5E5;
+    font-weight: bold;
+}
+a:hover{
+    font-weight: bold;
+}
+.foto{
+    float:left;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-right: 32px;
+}
+.texto{
+    font: size 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin-top: 48px;
+    line-height: 30px;
+}
